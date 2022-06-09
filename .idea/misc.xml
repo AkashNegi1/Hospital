@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/drawable-v24/ic_lock.xml" value="0.2265" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/drawable-v24/ic_mail.xml" value="0.2265" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/drawable/border_highlight.xml" value="0.2545" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/drawable/buttons_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/drawable/custom_dialog_background.xml" value="0.2555" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/drawable/login_bg.xml" value="0.2265" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/drawable/menu.xml" value="0.186" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/drawable/navigation_selector.xml" value="0.186" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/drawable/navigation_view_item_selected.xml" value="0.186" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/drawable/side_nav_bar.xml" value="0.186" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_beds_availability.xml" value="0.2" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_beds_nurse.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_dashboard_pateint.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_dashboard_pateint2.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_doctor_registration.xml" value="0.2" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_doctors_availability.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_make_appointment.xml" value="0.1" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_medics_availability.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_medics_nurse.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_nurse_registration.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_patient_registration.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_select_registration.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/activity_upcoming_appointment.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/app_bar_dashboard.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/app_bar_dashboard_pateint.xml" value="0.2" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/content_dashboard.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/content_dashboard_pateint.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/content_scrolling.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/custom_dialog.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/custom_dialog_background.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/custom_dialog_layout.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/dialog.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/fragment_dashboard.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/fragment_gallery.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/fragment_notifications.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/fragment_profile.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/fragment_slideshow.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/header_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/item.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/item1.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/item2.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/list_item.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/nav_header_dashboard.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/layout/nav_header_dashboard_pateint.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/menu/activity_main_drawer.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/menu/dashboard.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/menu/dashboard_pateint.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/menu/main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/menu/menu_make_appointment.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Akash Negi/Desktop/Android Dev/Hospital_Management_System/app/src/main/res/menu/tool_menu.xml" value="0.20521590423257802" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
